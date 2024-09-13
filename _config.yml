@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content:  # this will include new lines to allow paragraphs
-My name's Saul and I'am a Junior and student of Engineering Informatics.\n I have experience in <mark>Web Development</mark> and <mark>Data Bases</mark>. I'm currently learning Cibersecurity and Software Development.\n
-  I have experience in <mark>C</mark>, <mark>C++</mark>, <mark>Javascript</mark>, <mark>PHP</mark> and <mark>Python</mark>.I want to learn more about the lenguages and technologies that I use.
-
+  My name's Saul and I'am a Junior and student of Engineering Informatics.
+ 
+  I have experience in <mark>Web Development</mark> and <mark>Data Bases</mark>. I'm currently learning Cibersecurity and Software Development.
+  
+  I have experience in <mark>C</mark>, <mark>C++</mark>, <mark>Javascript</mark>, <mark>PHP</mark> and <mark>Python</mark>. I want to learn more about the lenguages and technologies that I use.
 content:
   - title: CV # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,7 +108,7 @@ content:
       - Anime
       - [Cats](https://youtu.be/JxS5E-kZc2s)
  
-      ![aa](/images/frieren.jpg "aa")
+    image_path: images/frieren.jpg
 
 # Footer
 footer_show_references: true
