@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Saul Garcia
-title: Student of Ingineering Informatics
+name: CV
+title: About an Student of Engineering Informatics
 email: saulgarcia1203@gmail.com
 website: https://github.com/louisy03
 
@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content:  # this will include new lines to allow paragraphs
-  My nickname's Louisy and I'am a student of Engineering Informatics. I have experience in web development and software development. I'm currently learning Cibersecurity.
+  My name's Saul and I'am a junior and student of Engineering Informatics. I have experience in <mark>web development</mark> and <mark>data bases</mark>. I'm currently learning <mark>Cibersecurity</mark> and <mark>software development</mark>.
+
+  I want to learn more about the lenguages and technologies that I use.
 
 content:
   - title: CV # Title for the section
@@ -59,9 +61,9 @@ content:
         link: github.com/louisy03
         # link_text: Project Website
         additional_links:
-          - title:  Cv of louisy
+          - title:  Github
             icon: fab fa-github
-            url: github.com/louisy03/CV
+            url: github.com/louisy03
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -80,7 +82,7 @@ content:
         sub_title: Student 5th semester
         caption: Agust 2021 - Present
         quote: >
-          I have experience in web development and software development.
+          I have experience in web development and data bases.
         description: | # this will include new lines to allow paragraphs
             Every day is a new chance to learn something new.
 
@@ -105,7 +107,7 @@ content:
       - Anime
       - [Cats](https://youtu.be/JxS5E-kZc2s)
  
-      ![frieren](/images/frieren.jpg "frieren")
+      [frieren](/images/frieren.jpg "frieren")
 
 # Footer
 footer_show_references: true
